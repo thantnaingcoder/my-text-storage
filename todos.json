@@ -1,12 +1,5 @@
 [
   {
-    "id": 3,
-    "title": "Read about Redux par",
-    "description": "Learn how Redux works and how to use it for state management.",
-    "completed": false,
-    "updatedAt": "2025-03-17T12:27:29.898Z"
-  },
-  {
     "id": 4,
     "title": "Explore GitHub API dsfafafd",
     "description": "Fetch and store data using GitHub REST API in React.",
