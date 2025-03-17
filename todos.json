@@ -10,11 +10,5 @@
     "title": "Explore GitHub API",
     "description": "Fetch and store data using GitHub REST API in React.",
     "completed": true
-  },
-  {
-    "title": "asdfasdf",
-    "completed": false,
-    "id": "1742214183785",
-    "createdAt": "2025-03-17T12:23:03.785Z"
   }
 ]
