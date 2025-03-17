@@ -3,8 +3,8 @@
     "id": 1,
     "title": "Learn React",
     "description": "Understand the basics of React and component lifecycle.",
-    "completed": true,
-    "updatedAt": "2025-03-17T12:22:16.253Z"
+    "completed": false,
+    "updatedAt": "2025-03-17T12:22:21.603Z"
   },
   {
     "id": 2,
