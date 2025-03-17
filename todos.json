@@ -20,8 +20,9 @@
   },
   {
     "title": "dsfdsfasdf",
-    "completed": false,
+    "completed": true,
     "id": "1742214367122",
-    "createdAt": "2025-03-17T12:26:07.122Z"
+    "createdAt": "2025-03-17T12:26:07.122Z",
+    "updatedAt": "2025-03-17T12:26:14.451Z"
   }
 ]
