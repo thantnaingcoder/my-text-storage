@@ -13,8 +13,9 @@
   },
   {
     "title": "to eat something",
-    "completed": false,
+    "completed": true,
     "id": "1742214252063",
-    "createdAt": "2025-03-17T12:24:12.063Z"
+    "createdAt": "2025-03-17T12:24:12.063Z",
+    "updatedAt": "2025-03-17T12:24:37.994Z"
   }
 ]
