@@ -10,5 +10,11 @@
     "title": "Explore GitHub API",
     "description": "Fetch and store data using GitHub REST API in React.",
     "completed": true
+  },
+  {
+    "title": "to eat something",
+    "completed": false,
+    "id": "1742214252063",
+    "createdAt": "2025-03-17T12:24:12.063Z"
   }
 ]
