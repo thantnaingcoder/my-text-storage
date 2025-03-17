@@ -3,15 +3,14 @@
     "id": 3,
     "title": "Read about Redux",
     "description": "Learn how Redux works and how to use it for state management.",
-    "completed": true,
-    "updatedAt": "2025-03-17T12:26:17.802Z"
+    "completed": false,
+    "updatedAt": "2025-03-17T12:26:28.674Z"
   },
   {
     "id": 4,
     "title": "Explore GitHub API",
     "description": "Fetch and store data using GitHub REST API in React.",
-    "completed": false,
-    "updatedAt": "2025-03-17T12:26:29.582Z"
+    "completed": true
   },
   {
     "title": "to eat something",
@@ -22,9 +21,9 @@
   },
   {
     "title": "dsfdsfasdf",
-    "completed": true,
+    "completed": false,
     "id": "1742214367122",
     "createdAt": "2025-03-17T12:26:07.122Z",
-    "updatedAt": "2025-03-17T12:26:14.451Z"
+    "updatedAt": "2025-03-17T12:26:30.906Z"
   }
 ]
